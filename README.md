@@ -1,1 +1,1 @@
-See the live-vserion of this simple couter at: https://versioncrowd.github.io/react-counter/
+See the live-version of this simple couter at: https://versioncrowd.github.io/react-counter/
